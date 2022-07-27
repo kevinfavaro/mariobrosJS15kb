@@ -43,12 +43,12 @@ what i removed?
 The game has prepared to do all of this, but my objective is create a similar (not equal) mario game with less than 15kb size.
 i needed to sacrify similar things, and any things i removed because have a similar in the game.
 ex:. 
-gomba=koopa troopa (except the shell)
-Coin Counter=Point counter
+gomba=koopa troopa (except the shell).
+Coin Counter=Point counter.
 Castle=Grass, cloud, etc...
-Gomba dead with block=Gomba dead
-Fire Flower=Mushroom (without move)
-Star=Mushroom (with jump move)
+Gomba dead with block=Gomba dead.
+Fire Flower=Mushroom (without move).
+Star=Mushroom (with jump move).
 etc...
 
 All game contains on the js file, the sound effect and music is separated because is so large and i can't fit this files, and I can't handle it in a good way.
@@ -57,11 +57,13 @@ The game support keyboard and gamepad.
 Enjoy.
 
 Keys:
-Arrow keys = move mario left and right
-Z = Jump
-X = Run
+Arrow keys = move mario left and right.
+Z = Jump.
+X = Run.
+Enter = Pause game.
 
 GamePad:
-analog left = move mario left and right
-X (Sony) - A (Xbox) - B (Nintendo) = Jump
-Square (Sony) - X (Xbox) - Y (Nintendo) = Run
+analog left = move mario left and right.
+X (Sony) - A (Xbox) - B (Nintendo) = Jump.
+Square (Sony) - X (Xbox) - Y (Nintendo) = Run.
+Options/Start/+ = Pause game.
